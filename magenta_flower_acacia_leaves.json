@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "chipped:block/magenta_flower_acacia_leaves1" },
+      { "model": "chipped:block/magenta_flower_acacia_leaves2" },
+      { "model": "chipped:block/magenta_flower_acacia_leaves3" },
+      { "model": "chipped:block/magenta_flower_acacia_leaves4" },
+      { "model": "chipped:block/magenta_flower_acacia_leaves5" },
+      { "model": "chipped:block/magenta_flower_acacia_leaves6" },
+      { "model": "chipped:block/magenta_flower_acacia_leaves7" },
+      { "model": "chipped:block/magenta_flower_acacia_leaves8" }
+    ]
+  }
+}

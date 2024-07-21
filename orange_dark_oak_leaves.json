@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "chipped:block/orange_dark_oak_leaves1" },
+      { "model": "chipped:block/orange_dark_oak_leaves2" },
+      { "model": "chipped:block/orange_dark_oak_leaves3" },
+      { "model": "chipped:block/orange_dark_oak_leaves4" },
+      { "model": "chipped:block/orange_dark_oak_leaves5" },
+      { "model": "chipped:block/orange_dark_oak_leaves6" },
+      { "model": "chipped:block/orange_dark_oak_leaves7" },
+      { "model": "chipped:block/orange_dark_oak_leaves8" }
+    ]
+  }
+}

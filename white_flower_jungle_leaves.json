@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "chipped:block/white_flower_jungle_leaves1" },
+      { "model": "chipped:block/white_flower_jungle_leaves2" },
+      { "model": "chipped:block/white_flower_jungle_leaves3" },
+      { "model": "chipped:block/white_flower_jungle_leaves4" },
+      { "model": "chipped:block/white_flower_jungle_leaves5" },
+      { "model": "chipped:block/white_flower_jungle_leaves6" },
+      { "model": "chipped:block/white_flower_jungle_leaves7" },
+      { "model": "chipped:block/white_flower_jungle_leaves8" }
+    ]
+  }
+}

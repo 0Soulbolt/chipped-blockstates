@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "chipped:block/orange_birch_leaves1" },
+      { "model": "chipped:block/orange_birch_leaves2" },
+      { "model": "chipped:block/orange_birch_leaves3" },
+      { "model": "chipped:block/orange_birch_leaves4" },
+      { "model": "chipped:block/orange_birch_leaves5" },
+      { "model": "chipped:block/orange_birch_leaves6" },
+      { "model": "chipped:block/orange_birch_leaves7" },
+      { "model": "chipped:block/orange_birch_leaves8" }
+    ]
+  }
+}

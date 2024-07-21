@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      { "model": "chipped:block/apple_spruce_leaves1" },
+      { "model": "chipped:block/apple_spruce_leaves2" },
+      { "model": "chipped:block/apple_spruce_leaves3" },
+      { "model": "chipped:block/apple_spruce_leaves4" },
+      { "model": "chipped:block/apple_spruce_leaves5" },
+      { "model": "chipped:block/apple_spruce_leaves6" },
+      { "model": "chipped:block/apple_spruce_leaves7" },
+      { "model": "chipped:block/apple_spruce_leaves8" }
+    ]
+  }
+}
